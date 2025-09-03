@@ -1,0 +1,1 @@
+End Goal is a Table Tennis Simulator meant to try and simulate how spin affects a table tennis ball using OpenGL. For now, just learning OpenGL. P.S. the way a spin affects the path of a ball is called the Magnus Effect.
